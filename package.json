@@ -1,0 +1,21 @@
+{
+  "name": "afya_yangu",
+  "version": "1.0.0",
+  "description": "This Project is the backend for my flutter mobile app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "afya"
+  ],
+  "author": "EDGAR JN",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
